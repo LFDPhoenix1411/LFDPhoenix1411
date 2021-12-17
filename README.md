@@ -14,9 +14,9 @@
 
 ### Github Stats:
 
- <summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
-<img align="left" alt="LFDPhoenix's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LFDPhoenix1411" />
+<img align="left" alt="LFDPhoenix's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LFDPhoenix1411"/>
 
 [IDE]: https://visualstudio.microsoft.com/de/
 [NODE]: https://nodejs.org/en/
