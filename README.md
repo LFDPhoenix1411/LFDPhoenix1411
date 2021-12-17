@@ -16,7 +16,7 @@
 <details>
  <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="LFDPhoenix's GitHub Stats" src="https://github-readme-	stats.vercel.app/api?username=LFDPhoenix1411" />
+<img align="left" alt="LFDPhoenix's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LFDPhoenix1411" />
 </details>
 
 [IDE]: https://visualstudio.microsoft.com/de/
