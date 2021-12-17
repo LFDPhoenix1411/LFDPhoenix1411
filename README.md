@@ -4,6 +4,8 @@
 
 ### Connect with me:
 
+[<img align="left" alt="LFDPhoenix | YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][YT]
+
 ### Languages and Tools:
 
 [<img title="" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png" alt="Visual Studio" align="left" width="26">][IDE]
@@ -21,3 +23,4 @@
 [IDE]: https://visualstudio.microsoft.com/de/
 [NODE]: https://nodejs.org/en/
 [SQL]: https://www.mysql.com/de/
+[YT]: https://www.youtube.com/channel/UC9j2FhvhnhcIahF0xbsfwdQ
