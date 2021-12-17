@@ -1,1 +1,1 @@
-### Hey Ich Heiße Ethan Aka LFDPhoenix
+### Hi there, I'm Ethan - aka LFDPhoenix
