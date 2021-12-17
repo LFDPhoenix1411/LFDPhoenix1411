@@ -12,15 +12,9 @@
 
 [<img align="left" alt="MYSQL" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 
-
-
 <br />
 
-
-
 ### Github Stats:
-
-:zap: GitHub Stats
 
 <img align="left" alt="LFDPhoenix's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LFDPhoenix1411"/>
 
