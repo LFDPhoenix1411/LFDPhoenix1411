@@ -2,7 +2,13 @@
 
 - 🌱 I’m currently learning C#
 
+<br />
+
 ### Connect with me:
+
+[<img align="left" alt="LFDPhoenix | YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][YT]
+
+<br />
 
 ### Languages and Tools:
 
@@ -18,6 +24,9 @@
 
 <img align="left" alt="LFDPhoenix's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LFDPhoenix1411"/>
 
+<br />
+
 [IDE]: https://visualstudio.microsoft.com/de/
 [NODE]: https://nodejs.org/en/
 [SQL]: https://www.mysql.com/de/
+[YT]: https://www.youtube.com/channel/UC9j2FhvhnhcIahF0xbsfwdQ
