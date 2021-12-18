@@ -1,7 +1,7 @@
 ### Hi there, I'm Ethan - aka LFDPhoenix
 
 - 🌱 I’m currently learning C# , C++
-- ✨ I can currently program with Python and GDScript
+- ✨ I can currently program with Node.js , Python and GDScript
 
 ### Connect with me:
 
