@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning C# , C++
 - ✨ I can currently program with Python and GDScript
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="LFDPhoenix | YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][YT]
