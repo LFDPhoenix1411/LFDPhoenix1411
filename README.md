@@ -26,7 +26,7 @@
 
 <br />
 
-[IDE]: visualstudio.microsoft.com
+[IDE]: https://visualstudio.microsoft.com
 [NODE]: https://nodejs.org/en/
 [SQL]: https://www.mysql.com/de/
 [YT]: https://www.youtube.com/channel/UC9j2FhvhnhcIahF0xbsfwdQ
